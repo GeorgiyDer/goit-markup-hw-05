@@ -583,21 +583,13 @@ ul {
 
 }
 .portfolio-title {
-    padding-left: 24px;
-    padding-right: 24px;
-    /* margin-top: 20px; */
     margin-bottom: 4px;
 }
 .portfolio .portfolio-title {
     font-size: 18px;
     line-height: 2;
 }
-.about {
-    padding-left: 24px;
-    padding-right: 24px;
-    margin-top: 0;
-    /* margin-bottom: 20px; */
-}
+
 .portfolio .about {
     color: #757575;
     font-size: 16px;
@@ -607,6 +599,8 @@ ul {
 .portfolio-info {
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 .section-title {
